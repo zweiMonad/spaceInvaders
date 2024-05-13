@@ -1,0 +1,2 @@
+La idea es primero hacer 200 divs para crear la grilla donde deben ir las piezas, esto se puede hacer de una forma mas 
+eficiente creando 200 div con un for loop en js, pero de esta manera es mas visual.
